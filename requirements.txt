@@ -9,7 +9,7 @@ docopt==0.6.2
 fastapi==0.79.0
 fqdn==1.5.1
 h11==0.13.0
-heroku==0.1.4
+heroku
 hupper==1.10.3
 idna==3.3
 isoduration==20.11.0
@@ -19,7 +19,7 @@ jsonref==0.2
 jsonschema==4.7.2
 msgpack==1.0.4
 numpy==1.23.1
-pandas==1.4.3
+pandas
 PasteDeploy==2.1.1
 pipreqs==0.4.11
 plaster==1.0
