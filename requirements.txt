@@ -1,7 +1,7 @@
 anyio==3.6.1
 arrow
 attrs==21.4.0
-bravado-core==5.17.0
+bravado-core
 certifi==2022.6.15
 charset-normalizer==2.1.0
 click==8.1.3
